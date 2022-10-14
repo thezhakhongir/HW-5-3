@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+
+.user-cards {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  width: 50%;
+  margin: 0 auto;
+}
